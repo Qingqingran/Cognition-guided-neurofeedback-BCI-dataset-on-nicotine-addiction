@@ -1,5 +1,5 @@
 # Cognition-guided-neurofeedback-BCI-dataset-on-nicotine-addiction
-This is a novel cognition-guided neurofeedback BCI dataset on nicotine addiction. Data is attached in publish release.
+This is a novel cognition-guided neurofeedback BCI dataset on nicotine addiction. Data is attached in [publish](https://github.com/Qingqingran/Cognition-guided-neurofeedback-BCI-dataset-on-nicotine-addiction/releases/tag/publish) release.
 ## About file
 
 - cue_reactivity_1 and cue_reactivity_2.zip: the eeg data of cue reactivity task
